@@ -4,9 +4,11 @@ Okay, I'm now pasting a bunch of stuff. I want to see how it feels as a text edi
 
 ### Synopsis
 
-Al, a young deity who has just finished building his first planet - an idyllic pastoral utopia inhabited by peaceful humans, flora and fauna - decides he wants to live among his people for a time to fully experience his children’s beauty and ingenuity, as seen from the lens of a human. But when the normally peaceful plants and animals begin to turn carnivorous and aggressive, it becomes apparent that Al’s presence on his little planet is causing unhealthy imbalances in an otherwise balanced system.
+Al, a young deity who has just finished building his first planet - an idyllic pastoral utopia inhabited by peaceful Elves, flora and fauna - decides he wants to live among his people for a time to fully experience his children’s beauty and ingenuity, as seen from the lens of a human. But when the normally peaceful plants and animals begin to turn carnivorous and aggressive, it becomes apparent that Al’s presence on his little planet is causing unhealthy imbalances in an otherwise balanced system.
 
 In a naive gesture of goodwill, Al gives his children the gift of Bands, a subtle form of glyph based magic that can protect them from the increasingly aggressive ecosystem, and bids farewell to his people. Over time, and without Al’s direct guidance, the people become masters of Bands, discovering loopholes in the system which unlock access to limitless magical powers - powers much larger than Al originally had in mind.
+
+Adding a paragraph.
 
 As opposing political structures form and their armies, lead largely by the most skilled and powerful Designants of the Bands, clash in a decades-long epic planetwide war that rends their continent in two, Al comes to the unsettling realization that this monstrous imbalance toward destruction is entirely his own fault. And he must figure out how to stop the momentum of this antithetical force before it takes on a life of its own.
 
